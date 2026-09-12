@@ -20,7 +20,7 @@
 ## ⚙️ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,R&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,Java,RProject&perline=9"/>
 </p>
 
 ### 💻 Front-End
