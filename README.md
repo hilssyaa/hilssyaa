@@ -38,5 +38,5 @@
 ### 🛠 Dev & Productivity Tools :
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,figma,canva,krita&perline=3"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,figma,canva&perline=9"/>
 </p>
