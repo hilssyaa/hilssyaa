@@ -9,7 +9,7 @@
 ### 🌟 About Me 
 
 👩‍💻 I'am Hilsya Hidayatun Syadiah, I'm a Information System student at <br/> Open University of Indonesia <br/>
-🖥️ Passionate about Technology and Front-End Web Developer
+🖥️ Passionate about Technology and Front-End Web Development
 
 ### 🌱 Currently Learning 
 
@@ -17,10 +17,16 @@
 
 ## 🚀 Tech Stack
 
+## ⚙️ Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,R&perline=9"/>
+</p>
+
 ### 💻 Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,vue,react,tailwind,bootstrap&perline=9"/>
 </p>
 
 ### 💾 Databases
