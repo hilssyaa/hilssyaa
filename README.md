@@ -13,5 +13,5 @@
 
 ### 🌟 About Me :
 
-👩‍💻 I'am Hilsya Hidayatun Syadiah, I'm a Information System student at Open University of Indonesia 
+👩‍💻 I'am Hilsya Hidayatun Syadiah, I'm a Information System student at Open University of Indonesia <br/>
 🖥️ Passionate about Technology and Front-End Web Developer
