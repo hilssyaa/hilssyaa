@@ -35,3 +35,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,PhpMyAdmin&perline=9"/>
 </p>
 
+### 🛠 Dev & Productivity Tools :
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,figma,canva,krita&perline=3"/>
+</p>
