@@ -22,14 +22,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind&perline=9"/>
 </p>
 
-### 💾 Databases & Backend Services
+### 💾 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql&perline=9"/>
 </p>
 
-### 🛠 Dev & Productivity Tools 
+### 🛠 Tools 
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,php,java,python,cisco,vscode,googlecloud,figma,canva,krita&perline=3"/>
+<img src="https://skillicons.dev/icons?i=git,github,php,java,python,cisco,vscode,googlecloud,figma,canva,krita&perline=9"/>
 </p>
