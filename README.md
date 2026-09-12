@@ -27,6 +27,5 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,PhpMyAdmin&perline=9"/>
-<a href="https://shields.io"</a>
 </p>
 
