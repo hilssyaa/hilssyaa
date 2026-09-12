@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Hilsya Hidayatun Syadiah 
 
-<!--
-**hilssyaa/hilssyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  align="left"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&vCenter=true&width=420&lines=Front-End+Developer;Web Developer Enthusiast"
+  alt="Typing animation"
+/>
+<br/>
+<h3 align="center">✨ Let's build something awesome together! 🚀 ✨</h3>
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/hilssyaa/hilssyaa/main/assets/illustration.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me :
+
+👩‍💻 I'am Hilsya Hidayatun Syadiah, I'm a Information System student at Open University of Indonesia 
+🖥️ Passionate about Technology and Front-End Web Developer
