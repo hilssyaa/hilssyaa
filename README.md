@@ -3,7 +3,7 @@
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&vCenter=true&width=420&lines=Tech+Learning;Web+Developer+Enthusiast" alt="Typing animation" />
 <br/>
 
-<img src="https://raw.githubusercontent.com/hilssyaa/hilssyaa/main/assets/illustration.gif"/>
+<img src="https://raw.githubusercontent.com/hilssyaa/hilssyaa/main/assets/illustration1.gif"/>
 <h3 align="center">✨ Let's build something awesome together! 🚀 ✨</h3>
 
 ### 🌟 About Me 
