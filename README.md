@@ -43,3 +43,10 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,figma&perline=9"/>
 </p>
+
+🎯 Fun Facts 
+
+💡 I enjoy learning something new about technology every day!
+🎵 Listening to my favorite music makes coding enjoyable for me
+👩‍🍳 I really enjoy cooking and trying out new recipes
+📚 I enjoy deepening my knowledge through reading books
