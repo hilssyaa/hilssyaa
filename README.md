@@ -54,12 +54,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hilssyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 </p>
 
-<img
-    alt="Ahmad Riyo contribution snake"
-    src="https://raw.githubusercontent.com/hilssyaa/hilssyaa/output/github-snake-dark.svg"
-    width="100%"
-  />
-
 ### 🎯 Fun Facts 
 
 💡 I enjoy learning something new about technology every day! <br/>
