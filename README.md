@@ -53,9 +53,6 @@
 </a>
 </p>
 
-## Contribution Activity
-![Contribution snake example](https://github.com/hilssyaa/hilssyaa/blob/output/github-contribution-grid-snake.svg)
-
 ### 🤝 Connect With Me
 
 <p align="center">
