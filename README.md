@@ -44,13 +44,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,figma&perline=9"/>
 </p>
 
-### 🎯 Fun Facts 
-
-💡 I enjoy learning something new about technology every day! <br/>
-🎵 Listening to my favorite music makes coding enjoyable for me <br/>
-👩‍🍳 I really enjoy cooking and trying out new recipes <br/>
-📚 I enjoy deepening my knowledge through reading books
-
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -61,3 +54,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hilssyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 </p>
 
+### 🎯 Fun Facts 
+
+💡 I enjoy learning something new about technology every day! <br/>
+🎵 Listening to my favorite music makes coding enjoyable for me <br/>
+👩‍🍳 I really enjoy cooking and trying out new recipes <br/>
+📚 I enjoy deepening my knowledge through reading books
+
+<img
+    alt="Ahmad Riyo contribution snake"
+    src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake-dark.svg"
+    width="100%"
+  />
