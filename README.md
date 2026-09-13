@@ -12,7 +12,10 @@
 🖥️ Passionate about Technology and Front-End Web Development
 
 ### 🌱 Currently Learning 
-
+🚀 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+✨ I am currently exploring Python to expand my programming logic, automate workflows, and develop scalable applications
+💡 I am currently learning about cybersecurity to understand system vulnerabilities, secure applications, and protect digital assets
+🐱‍💻 Curiosity always drives me to explore the latest technological innovations and tools to refine every aspect of the workflow
 ##
 
 ## 🚀 Tech Stack
