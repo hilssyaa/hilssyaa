@@ -51,11 +51,13 @@
 👩‍🍳 I really enjoy cooking and trying out new recipes <br/>
 📚 I enjoy deepening my knowledge through reading books
 
-### Github Statistic
+### 📊 GitHub Statistics
 
-<p align="left">
-<a href="https://github.com/hilssyaa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hilssyaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hilssyaa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilssyaa&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hilssyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+</p>
+
