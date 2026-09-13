@@ -49,4 +49,13 @@
 💡 I enjoy learning something new about technology every day! <br/>
 🎵 Listening to my favorite music makes coding enjoyable for me <br/>
 👩‍🍳 I really enjoy cooking and trying out new recipes <br/>
-📚 I enjoy deepening my knowledge through reading books <br/>
+📚 I enjoy deepening my knowledge through reading books
+
+### Github Statistic
+
+<p align="left">
+<a href="https://github.com/hilssyaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hilssyaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hilssyaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
